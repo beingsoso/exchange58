@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from exchanges58.exchanges58.delivery_ontract import DeliveryContract
+from exchanges58.exchange58.delivery_ontract import DeliveryContract
 #%%
 key	= 'xxx'
 secret ='xxx'
